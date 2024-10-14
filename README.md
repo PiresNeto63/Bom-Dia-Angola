@@ -1,2 +1,2 @@
-# Bom Dia Angola
+# Bom dia, Angola
  Primeiro repositório no git e github
